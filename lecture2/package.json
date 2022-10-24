@@ -1,0 +1,30 @@
+{
+  "name": "hometasks",
+  "version": "1.0.0",
+  "description": "nodeJS first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanyaLark/HomeTasks.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Niegrieieva Tetiana <tanyaenlang9898@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanyaLark/HomeTasks/issues"
+  },
+  "homepage": "https://github.com/TanyaLark/HomeTasks#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "eslint": "^8.26.0",
+    "ip": "^1.1.8"
+  }
+}
