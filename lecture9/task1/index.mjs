@@ -11,4 +11,3 @@ cmd.question(`Input string: \n`, function setNum(input) {
     console.log('Result:', calculator(input));
     cmd.close();
 });
-
