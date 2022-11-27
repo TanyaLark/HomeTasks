@@ -1,0 +1,8 @@
+export enum PositionEnum {
+    FRONT_END_DEVELOPER = 'FRONT_END_DEVELOPER',
+    BACK_END_DEVELOPER = 'BACK_END_DEVELOPER',
+    DEV_OPS = 'DEV_OPS',
+    QA = 'QA',
+    PM = 'PM',
+    BUSINESS_ANALYST = 'BUSINESS_ANALYST'
+}
